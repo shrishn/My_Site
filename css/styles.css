@@ -33,13 +33,10 @@ h3 {
 a {
   color: #f3efe0;
   font-family: "Montserrat", sans-serif;
-  margin: 10px 5px;
+  
   text-decoration: none;
 }
-a:hover {
-  color: #222222;
-  transform: scale(1.5);
-}
+
 
 p {
   line-height: 2;
@@ -154,6 +151,7 @@ hr {
 .nav-link {
   font-family: "Patrick Hand", cursive !important;
   font-size: 25px !important;
+  color: white;
 }
 .navbar-dark {
   background-color: #222222;
